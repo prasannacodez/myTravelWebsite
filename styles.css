@@ -11,13 +11,15 @@ a{
     
 }
 a:hover{
-    color: greenyellow;
+    color: rgb(255, 47, 116);
 }
 *{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
 }
 .homecontent{
     margin-left: 50px;
+    
 }
 .stories{
         text-align: center;
